@@ -43,7 +43,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({
           <div className="lg:col-span-7 space-y-6">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-800/80 text-blue-200 text-xs font-semibold border border-blue-700/50">
               <Activity className="w-3.5 h-3.5 text-blue-400" />
-              <span>Smart India Hackathon 2026 Proposal • Team InnovateX</span>
+              <span>Smart India Hackathon 2026 Proposal • Team InnovateX1</span>
             </div>
 
             <div className="space-y-2">
